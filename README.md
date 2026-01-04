@@ -475,19 +475,6 @@ MIT License - feel free to use this as a learning resource or starting template.
 - [Cilium Project](https://github.com/cilium/cilium) - For the Hive framework
 - [uber-go/dig](https://github.com/uber-go/dig) - Underlying DI library
 
-## 💡 Ideas for Extension
-
-Want to learn more? Try adding:
-
-1. **Persistence**: Replace in-memory storage with SQLite/PostgreSQL
-2. **Authentication**: Add JWT-based auth cell
-3. **Caching**: Add Redis cache cell
-4. **Background Jobs**: Add worker pool cell
-5. **Notifications**: Add webhook notification cell
-6. **Testing**: Write unit tests using Hive's test utilities
-
-Each feature = one new cell with explicit dependencies!
-
 ---
 
 **Happy Learning! 🚀**
