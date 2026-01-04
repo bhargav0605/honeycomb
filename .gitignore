@@ -1,0 +1,61 @@
+# Binaries
+task-manager
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Test binary, build, and coverage files
+*.test
+*.out
+coverage.html
+coverage.txt
+*.prof
+
+# Dependency directories
+vendor/
+
+# Go workspace file
+go.work
+go.work.sum
+
+# Build directories
+bin/
+dist/
+build/
+
+# IDE files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+*.iml
+.DS_Store
+
+# Environment and configuration
+.env
+.env.local
+.env.*.local
+*.local
+config.local.yaml
+secrets.yaml
+
+# Logs
+*.log
+logs/
+
+# Generated files
+hive-graph.dot
+hive-graph.png
+hive-graph.svg
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Debug files
+debug
+__debug_bin
